@@ -1,6 +1,9 @@
 # youtube_channel_fetcher
 
 This is the script to get all videos of youtube channels by Youtube API.
+
+You can get easily a list of videos from youtube channels which you select.
+
 This script uses ruby on rails and [`Fullscreen/yt`](https://github.com/Fullscreen/yt).
 
 ## Gemfile
